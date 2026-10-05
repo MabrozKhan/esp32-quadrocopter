@@ -1,0 +1,14 @@
+# Word-/Office-Sperrdateien
+~$*
+
+# Windows / OneDrive
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Arduino-Build-Ausgaben
+build/
+*.hex
+*.elf
+*.bin
+*.map
