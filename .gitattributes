@@ -1,0 +1,15 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Quelldateien ausdruecklich als Text behandeln
+*.ino text
+*.h   text
+*.cpp text
+*.md  text
+
+# Binaerdateien nicht anfassen
+*.3mf binary
+*.stl binary
+*.pdf binary
+*.png binary
+*.jpg binary
