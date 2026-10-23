@@ -1,4 +1,4 @@
-# Word-/Office-Sperrdateien
+# Office lock files
 ~$*
 
 # Windows / OneDrive
@@ -6,9 +6,12 @@ Thumbs.db
 desktop.ini
 *.lnk
 
-# Arduino-Build-Ausgaben
+# Arduino build output
 build/
 *.hex
 *.elf
 *.bin
 *.map
+
+# Private files, stay on this PC only
+private/
